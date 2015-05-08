@@ -24,7 +24,7 @@ Socio.register(function(app, auth, database) {
     menu: 'main'
   });
   
-  Socio.aggregateAsset('css', 'socio.css');
+  //Socio.aggregateAsset('css', 'socio.css');
 
   return Socio;
 });
