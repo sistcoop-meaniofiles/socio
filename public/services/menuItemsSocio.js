@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('mean.rrhh').service('$menuItemsSocio', [
+angular.module('mean.socio').service('$menuItemsSocio', [
     function() {
 
         this.menuItems = [];
